@@ -1,8 +1,6 @@
 #LAMP-D 🧬
-
 LAMP-D is an initiative based on [python](http://https://www.python.org "python") to design LAMP primers in an easy and fast way to support research on fast diagnosis of multiple diseases.
 > Technology is the fastest way to achieve your craziest dreams, is your decision to use it or not.
-
 >    -Sergio Pachón D.-
 
 ##Features:
